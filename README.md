@@ -1,4 +1,4 @@
-#Java Automation Project
+#Java Development Automation Project
 ##Base Point for Java Automation Projects
 
 *Project for creating automation tests using Selenium WebDriver and TestNG.*
